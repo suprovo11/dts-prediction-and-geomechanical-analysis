@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 ================================================================================
  research_pipeline.py
@@ -33,7 +31,7 @@ Dependencies: numpy, pandas, scikit-learn, scipy, matplotlib, joblib, openpyxl,
 pyarrow (for parquet). XGBoost / LightGBM are used automatically if installed,
 else the pipeline falls back to sklearn's HistGradientBoostingRegressor.
 
-Author: TrendinTools (Md. Momin Ali)   |   Target venue: ICERIE 2027
+Author: Salman Shakib Suprova 
 ================================================================================
 """
 from __future__ import annotations
