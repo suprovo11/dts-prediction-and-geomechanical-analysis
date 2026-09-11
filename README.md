@@ -185,7 +185,7 @@ These outputs provide the processed dataset, model-performance comparison, selec
 If you use this repository, methodology, or implementation in academic work, please cite the repository as follows:
 
 ```bibtex
-@software{ali_dts_ml_geomechanics,
+@software{dts_ml_geomechanics,
   author       = {Salman Shakib Suprova},
   title        = {Machine Learning-Based DTS Prediction and Geomechanical Analysis},
   year         = {2026},
