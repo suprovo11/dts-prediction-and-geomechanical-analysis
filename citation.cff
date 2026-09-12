@@ -1,13 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software or framework, please cite it as below."
-title: "Formation Pressure Prediction"
-date-released: "2026-09-11"
+title: "DTS Prediction and Geomechanical Analysis"
+date-released: "2026-09-12"
 license: MIT
 type: software
-repository-code: "https://github.com/suprovo11/Formation-Pressure-Prediction"
+repository-code: "ithub.com/suprovo11/dts-prediction-and-geomechanical-analysis"
 authors:
   - family-names: Suprova
     given-names: Salman Shakib
     affiliation: "Shahjalal University of Science & Technology, Sylhet"
-
-DOI:
